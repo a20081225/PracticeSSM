@@ -11,6 +11,7 @@
     <modules>
         <module>ssm</module>
         <module>ssmweb</module>
+        <module>ssmweb2</module>
     </modules>
 
 

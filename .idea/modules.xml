@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PracticeSSM.iml" filepath="$PROJECT_DIR$/PracticeSSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmweb/ssmweb.iml" filepath="$PROJECT_DIR$/ssmweb/ssmweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmweb2/ssmweb2.iml" filepath="$PROJECT_DIR$/ssmweb2/ssmweb2.iml" />
     </modules>
   </component>
 </project>
