@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletRequest;
     @RequestMapping("/user")
     public class UserController {
 
-        @Autowired
+        @Resource
         protected IUserService userService ;
 
         @RequestMapping("/showUser.do")
